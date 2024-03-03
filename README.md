@@ -5,25 +5,15 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
 
 ## Projects
 
-### BeachBook
-An Android application for beach enthusiasts to collect and share data about their favorite beaches.
-
-**Technologies:** Java, Firestore, Google Cloud Functions, Google Maps API, Picasso
-
-- [BeachBook Repository](https://github.com/ziehro/BeachBook)
-- ![Beach Selection Screenshot](./images/BeachBook/app1.png)
-- ![Data Input Screenshot](./images/BeachBook/app2.png)
-- ![Beach Details Screenshot](./images/BeachBook/app3.png)
-
+<table>
+  <tr>
+    <td><img src="./images/BeachBook/app1.png" width="100%" alt="Beach Selection Screenshot"></td>
+    <td><img src="./images/BeachBook/app2.png" width="100%" alt="Data Input Screenshot"></td>
+    <td><img src="./images/BeachBook/app3.png" width="100%" alt="Beach Details Screenshot"></td>
+  </tr>
+</table>
 ### HotFacts
 An innovative Android app that uses OpenAI's technologies to create informative YouTube videos based on user-provided keywords.
-
-**Technologies:** ChatGPT, DALL-E, OpenAI API, TTS, Cloud Secrets
-
-- [HotFacts Repository](https://github.com/ziehro/HotFacts)
-- ![App Interface Screenshot](hotfacts1.png)
-- ![Video Creation Screenshot](hotfacts2.png)
-- ![Final Video Screenshot](hotfacts3.png)
 
 ### Gaia
 An Android app creating a verbal interaction with ChatGPT, providing users a conversational experience.
@@ -31,9 +21,15 @@ An Android app creating a verbal interaction with ChatGPT, providing users a con
 **Technologies:** OpenAI API, Java, TTS, Voice Recognition
 
 - [Chet Repository](https://github.com/ziehro/Chet)
-- ![Conversation Interface Screenshot](gaia1.png)
-- ![Voice Recognition Screenshot](gaia2.png)
-- ![Chat Display Screenshot](gaia3.png)
+
+<table>
+  <tr>
+    <td><img src="gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
+  </tr>
+</table>
+
 
 ### LuckyDay
 A unique app correlating personal events with lunar phases to discover the user's luckiest days.
