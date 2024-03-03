@@ -42,9 +42,9 @@ An Android app creating a verbal interaction with ChatGPT, providing users a con
 
 <table>
   <tr>
-    <td><img src="./gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
-    <td><img src="./gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
-    <td><img src="./gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
+    <td><img src="./Chet/gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./Chet/gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./Chet/gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
   </tr>
 </table>
 
@@ -58,9 +58,9 @@ A unique app correlating personal events with lunar phases to discover the user'
 
 <table>
   <tr>
-    <td><img src="./luckyday1.png" width="100%" alt="Conversation Interface Screenshot"></td>
-    <td><img src="./luckyday2.png" width="100%" alt="Voice Recognition Screenshot"></td>
-    <td><img src="./luckyday4.png" width="100%" alt="Chat Display Screenshot"></td>
+    <td><img src="./LuckyDay/luckyday1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./LuckyDay/luckyday2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./LuckyDay/luckyday4.png" width="100%" alt="Chat Display Screenshot"></td>
   </tr>
 </table>
 
@@ -74,9 +74,9 @@ A Tetris-like game with a twist: filled blocks reveal letters to form words.
 
 <table>
   <tr>
-    <td><img src="./tetrite1.png" width="100%" alt="Conversation Interface Screenshot"></td>
-    <td><img src="./tetrite2.png" width="100%" alt="Voice Recognition Screenshot"></td>
-    <td><img src="./tetrite3.png" width="100%" alt="Chat Display Screenshot"></td>
+    <td><img src="./Tetrite/tetrite1.png" width="100%" alt="Game Begins"></td>
+    <td><img src="./Tetrite/tetrite2.png" width="100%" alt="Tetris Gameplay"></td>
+    <td><img src="./Tetrite/tetrite3.png" width="100%" alt="Words"></td>
   </tr>
 </table>
 
