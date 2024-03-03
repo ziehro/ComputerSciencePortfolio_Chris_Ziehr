@@ -1,6 +1,5 @@
 # ComputerSciencePortfolio_Chris_Ziehr
 Portfolio containing computer science examples by Chris Ziehr
-# Chris Ziehr's Computer Science Portfolio
 
 Welcome to my Computer Science Portfolio. Here, you will find a collection of projects showcasing my skills and interests in computer science, particularly in mobile app development and data analysis. Each project highlights my ability to blend technology and creativity to solve unique problems.
 
