@@ -24,9 +24,9 @@ An innovative Android app that uses OpenAI's technologies to create informative 
 
 <table>
   <tr>
-    <td><img src="./hotfacts1.png" width="100%" alt="Conversation Interface Screenshot"></td>
-    <td><img src="./hotfacts2.png" width="100%" alt="Voice Recognition Screenshot"></td>
-    <td><img src="./hotfacts3.png" width="100%" alt="Chat Display Screenshot"></td>
+    <td><img src="./HotFacts/hotfacts1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./HotFacts/hotfacts2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./HotFacts/hotfacts3.png" width="100%" alt="Chat Display Screenshot"></td>
   </tr>
 </table>
 
