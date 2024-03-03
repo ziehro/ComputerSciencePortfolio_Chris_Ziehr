@@ -11,9 +11,9 @@ An Android application for beach enthusiasts to collect and share data about the
 **Technologies:** Java, Firestore, Google Cloud Functions, Google Maps API, Picasso
 
 - [BeachBook Repository](https://github.com/ziehro/BeachBook)
-- ![Beach Selection Screenshot](images/BeachBook/beach_selection.png)
-- ![Data Input Screenshot](images/BeachBook/data_input.png)
-- ![Beach Details Screenshot](images/BeachBook/beach_details.png)
+- ![Beach Selection Screenshot](app1.png)
+- ![Data Input Screenshot](app2.png)
+- ![Beach Details Screenshot](app3.png)
 
 ### HotFacts
 An innovative Android app that uses OpenAI's technologies to create informative YouTube videos based on user-provided keywords.
@@ -21,19 +21,19 @@ An innovative Android app that uses OpenAI's technologies to create informative 
 **Technologies:** ChatGPT, DALL-E, OpenAI API, TTS, Cloud Secrets
 
 - [HotFacts Repository](https://github.com/ziehro/HotFacts)
-- ![App Interface Screenshot](images/HotFacts/app_interface.png)
-- ![Video Creation Screenshot](images/HotFacts/video_creation.png)
-- ![Final Video Screenshot](images/HotFacts/final_video.png)
+- ![App Interface Screenshot](hotfacts1.png)
+- ![Video Creation Screenshot](hotfacts2.png)
+- ![Final Video Screenshot](hotfacts3.png)
 
-### Chet
+### Gaia
 An Android app creating a verbal interaction with ChatGPT, providing users a conversational experience.
 
 **Technologies:** OpenAI API, Java, TTS, Voice Recognition
 
 - [Chet Repository](https://github.com/ziehro/Chet)
-- ![Conversation Interface Screenshot](images/Chet/conversation_interface.png)
-- ![Voice Recognition Screenshot](images/Chet/voice_recognition.png)
-- ![Chat Display Screenshot](images/Chet/chat_display.png)
+- ![Conversation Interface Screenshot](gaia1.png)
+- ![Voice Recognition Screenshot](gaia2.png)
+- ![Chat Display Screenshot](gaia3.png)
 
 ### LuckyDay
 A unique app correlating personal events with lunar phases to discover the user's luckiest days.
@@ -41,9 +41,9 @@ A unique app correlating personal events with lunar phases to discover the user'
 **Technologies:** Java, MPAndroidChart, Picasso, Apache
 
 - [LuckyDay Repository](https://github.com/ziehro/LuckyDay)
-- ![Event Input Screenshot](images/LuckyDay/event_input.png)
-- ![Lunar Phase Plot Screenshot](images/LuckyDay/lunar_phase_plot.png)
-- ![Event Summary Screenshot](images/LuckyDay/event_summary.png)
+- ![Event Input Screenshot](luckyday2.png)
+- ![Lunar Phase Plot Screenshot](luckyday3.png)
+- ![Event Summary Screenshot](luckyday4.png)
 
 ### Tetrite
 A Tetris-like game with a twist: filled blocks reveal letters to form words.
