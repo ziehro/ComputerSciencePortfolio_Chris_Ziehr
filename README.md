@@ -3,7 +3,9 @@ Portfolio containing computer science examples by Chris Ziehr
 
 Welcome to my Computer Science Portfolio. Here, you will find a collection of projects showcasing my skills and interests in computer science, particularly in mobile app development and data analysis. Each project highlights my ability to blend technology and creativity to solve unique problems.
 
-## Projects
+## Projects Overview
+
+### 1. BeachBook
 
 <table>
   <tr>
@@ -13,15 +15,30 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
   </tr>
 </table>
 
+**Description**: An Android app for collecting and reviewing beach data. Users can select a beach on an interactive map and input various attributes and images.
+
+**Technologies**: Java, Firestore, Google Cloud Functions, Map APIs, Picasso
+
 ### HotFacts
 An innovative Android app that uses OpenAI's technologies to create informative YouTube videos based on user-provided keywords.
+
+<table>
+  <tr>
+    <td><img src="./hotfacts1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./hotfacts2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./hotfacts3.png" width="100%" alt="Chat Display Screenshot"></td>
+  </tr>
+</table>
+
+**Description**: An Android app that generates YouTube videos with facts based on a single word or phrase. It utilizes OpenAI's ChatGPT and Dall-E for content creation.
+
+**Technologies**: ChatGPT, Dall-E, OpenAI API, TTS, Cloud Secrets
+
 
 ### Gaia
 An Android app creating a verbal interaction with ChatGPT, providing users a conversational experience.
 
-**Technologies:** OpenAI API, Java, TTS, Voice Recognition
-
-- [Chet Repository](https://github.com/ziehro/Chet)
+- [Gaia Repository](https://github.com/ziehro/Chet)
 
 <table>
   <tr>
@@ -31,26 +48,42 @@ An Android app creating a verbal interaction with ChatGPT, providing users a con
   </tr>
 </table>
 
+**Description**: An Android app that facilitates verbal conversations with ChatGPT, featuring voice recognition and text-to-speech functionality.
+
+**Technologies**: OpenAI API, Java, TTS, Voice Recognition
+
 
 ### LuckyDay
 A unique app correlating personal events with lunar phases to discover the user's luckiest days.
 
-**Technologies:** Java, MPAndroidChart, Picasso, Apache
+<table>
+  <tr>
+    <td><img src="./luckyday1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./luckyday2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./luckyday4.png" width="100%" alt="Chat Display Screenshot"></td>
+  </tr>
+</table>
 
-- [LuckyDay Repository](https://github.com/ziehro/LuckyDay)
-- ![Event Input Screenshot](luckyday2.png)
-- ![Lunar Phase Plot Screenshot](luckyday3.png)
-- ![Event Summary Screenshot](luckyday4.png)
+**Description**: An app for tracking and correlating personal events with lunar phases to discover one's 'Lucky Day'.
+
+**Technologies**: Java, MPAndroidChart, Picasso, Apache
+
 
 ### Tetrite
 A Tetris-like game with a twist: filled blocks reveal letters to form words.
 
-**Technologies:** Java, Espresso
+<table>
+  <tr>
+    <td><img src="./tetrite1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./tetrite2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./tetrite3.png" width="100%" alt="Chat Display Screenshot"></td>
+  </tr>
+</table>
 
-- [Tetrite Repository](https://github.com/ziehro/Tetrite)
-- ![Gameplay Screenshot](images/Tetrite/gameplay.png)
-- ![Word Search Screenshot](images/Tetrite/word_search.png)
-- ![Score Screen Screenshot](images/Tetrite/score_screen.png)
+**Description**: A Tetris-like Android game where the tetrominoes are filled with letters, challenging players to find words as they complete lines.
+
+**Technologies**: Java, Espresso
+
 
 ## About Me
 
