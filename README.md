@@ -12,6 +12,7 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
     <td><img src="./images/BeachBook/app3.png" width="100%" alt="Beach Details Screenshot"></td>
   </tr>
 </table>
+
 ### HotFacts
 An innovative Android app that uses OpenAI's technologies to create informative YouTube videos based on user-provided keywords.
 
@@ -24,9 +25,9 @@ An Android app creating a verbal interaction with ChatGPT, providing users a con
 
 <table>
   <tr>
-    <td><img src="gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
-    <td><img src="gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
-    <td><img src="gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
+    <td><img src="./gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
   </tr>
 </table>
 
