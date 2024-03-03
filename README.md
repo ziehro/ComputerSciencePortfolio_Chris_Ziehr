@@ -11,9 +11,9 @@ An Android application for beach enthusiasts to collect and share data about the
 **Technologies:** Java, Firestore, Google Cloud Functions, Google Maps API, Picasso
 
 - [BeachBook Repository](https://github.com/ziehro/BeachBook)
-- ![Beach Selection Screenshot](app1.png)
-- ![Data Input Screenshot](app2.png)
-- ![Beach Details Screenshot](app3.png)
+- ![Beach Selection Screenshot](./images/BeachBook/app1.png)
+- ![Data Input Screenshot](./images/BeachBook/app2.png)
+- ![Beach Details Screenshot](./images/BeachBook/app3.png)
 
 ### HotFacts
 An innovative Android app that uses OpenAI's technologies to create informative YouTube videos based on user-provided keywords.
