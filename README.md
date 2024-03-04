@@ -27,7 +27,7 @@ An innovative Android app that uses OpenAI's technologies to create informative 
     <td><img src="./HotFacts/hotfacts1.png" width="100%" alt="Conversation Interface Screenshot"></td>
     <td><img src="./HotFacts/hotfacts2.png" width="100%" alt="Voice Recognition Screenshot"></td>
     <td><img src="./HotFacts/hotfacts3.png" width="100%" alt="Chat Display Screenshot"></td>
-    <td><a href="6ixPhix YouTube" target="https://www.youtube.com/watch?v=ulBe9LpDE_U"><img src="./HotFacts/hotfacts5.png" width="100%" alt="YouTube Channel Link"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=ulBe9LpDE_U" target="_blank"><img src="./HotFacts/hotfacts5.png" width="100%" alt="YouTube Channel Link"></a></td>
   </tr>
 </table>
 
