@@ -15,7 +15,7 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
   </tr>
 </table>
 
-**Description**: An Android app for collecting and reviewing beach data. Users can select a beach on an interactive map and input various attributes and images.
+**Description**: An Android app for collecting and reviewing beach data. Users can select an existing or new beach on an interactive map and input various attributes and images.
 
 **Technologies**: Java, Firestore, Google Cloud Functions, Map APIs, Picasso
 
@@ -27,10 +27,13 @@ An innovative Android app that uses OpenAI's technologies to create informative 
     <td><img src="./HotFacts/hotfacts1.png" width="100%" alt="Conversation Interface Screenshot"></td>
     <td><img src="./HotFacts/hotfacts2.png" width="100%" alt="Voice Recognition Screenshot"></td>
     <td><img src="./HotFacts/hotfacts3.png" width="100%" alt="Chat Display Screenshot"></td>
+    <td><a href="6ixPhix YouTube" target="_blank"><img src="./Hotfacts/hotfacts5.png" width="100%" alt="YouTube Channel Link"></a></td>
   </tr>
 </table>
 
 **Description**: An Android app that generates YouTube videos with facts based on a single word or phrase. It utilizes OpenAI's ChatGPT and Dall-E for content creation.
+
+
 
 **Technologies**: ChatGPT, Dall-E, OpenAI API, TTS, Cloud Secrets
 
