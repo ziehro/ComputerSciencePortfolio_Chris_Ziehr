@@ -49,9 +49,9 @@ An Android app creating a verbal interaction with ChatGPT, providing users a con
 
 <table>
   <tr>
-    <td><img src="./Chet/gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
-    <td><img src="./Chet/gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
-    <td><img src="./Chet/gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
+    <td><img src="./Gaia/gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./Gaia/gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./Gaia/gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
   </tr>
 </table>
 
