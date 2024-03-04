@@ -7,6 +7,8 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
 
 ### 1. BeachBook
 
+- [BeachBook Repository](https://github.com/ziehro/BeachBook)
+
 <table>
   <tr>
     <td><img src="./images/BeachBook/app1.png" width="100%" alt="Beach Selection Screenshot"></td>
@@ -21,6 +23,8 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
 
 ### HotFacts
 An innovative Android app that uses OpenAI's technologies to create informative YouTube videos based on user-provided keywords.
+
+- [HotFacts Repository](https://github.com/ziehro/HotFacts)
 
 <table>
   <tr>
@@ -59,6 +63,8 @@ An Android app creating a verbal interaction with ChatGPT, providing users a con
 ### LuckyDay
 A unique app correlating personal events with lunar phases to discover the user's luckiest days.
 
+- [LuckyDay Repository](https://github.com/ziehro/LuckyDay)
+
 <table>
   <tr>
     <td><img src="./LuckyDay/luckyday1.png" width="100%" alt="Conversation Interface Screenshot"></td>
@@ -74,6 +80,8 @@ A unique app correlating personal events with lunar phases to discover the user'
 
 ### Tetrite
 A Tetris-like game with a twist: filled blocks reveal letters to form words.
+
+- [Tetrite Repository](https://github.com/ziehro/Tetrite)
 
 <table>
   <tr>
