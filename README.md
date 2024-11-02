@@ -21,6 +21,22 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
 
 **Technologies**: Java, Firestore, Google Cloud Functions, Map APIs, Picasso
 
+### HailStorm
+
+- [HailStorm Repository](https://github.com/ziehro/HailStorm)
+
+<table>
+  <tr>
+    <td><img src="./images/HailStorm/app1.png" width="100%" alt="Mainscreen Screenshot"></td>
+    <td><img src="./images/HailStorm/app2.png" width="100%" alt="Statistics Screenshot"></td>
+    <td><img src="./images/HailStorm/app3.png" width="100%" alt="Command selection Screenshot"></td>
+  </tr>
+</table>
+
+**Description:** An automated trading system that leverages machine learning to predict stock price movements and execute trades. The bot fetches high-frequency stock data, preprocesses it by adding technical indicators, and trains a neural network model using LSTM layers. It predicts stock price direction and automates trading decisions. The system integrates with Firebase Firestore for data storage and logging, and uses the Alpaca API for executing trades.
+
+**Technologies:** Python, TensorFlow, Keras, Firebase Firestore, Alpaca API, YFinance, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Google Cloud Functions, Google Cloud Logging
+
 ### HotFacts
 An innovative Android app that uses OpenAI's technologies to create informative YouTube videos based on user-provided keywords.
 
