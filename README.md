@@ -27,9 +27,9 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
 
 <table>
   <tr>
-    <td><img src="./images/HailStorm/app1.png" width="100%" alt="Mainscreen Screenshot"></td>
-    <td><img src="./images/HailStorm/app2.png" width="100%" alt="Statistics Screenshot"></td>
-    <td><img src="./images/HailStorm/app3.png" width="100%" alt="Command selection Screenshot"></td>
+    <td><img src="./HailStorm/app1.png" width="100%" alt="Mainscreen Screenshot"></td>
+    <td><img src="./HailStorm/app2.png" width="100%" alt="Statistics Screenshot"></td>
+    <td><img src="./HailStorm/app3.png" width="100%" alt="Command selection Screenshot"></td>
   </tr>
 </table>
 
