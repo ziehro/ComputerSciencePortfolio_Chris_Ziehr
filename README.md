@@ -5,7 +5,24 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
 
 ## Projects Overview
 
-### 1. BeachBook
+### TalkToGrok
+An Android app creating a verbal interaction with Grok-Beta, providing users a conversational experience.
+
+- [TalkToGrok Repository](https://github.com/ziehro/Chet)
+
+<table>
+  <tr>
+    <td><img src="./Gaia/gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
+    <td><img src="./Gaia/gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
+    <td><img src="./Gaia/gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
+  </tr>
+</table>
+
+**Description**: An Android app that facilitates verbal conversations with Grok, featuring voice recognition and text-to-speech functionality.
+
+**Technologies**: X.AI API, Java, TTS, Voice Recognition
+
+### BeachBook
 
 - [BeachBook Repository](https://github.com/ziehro/BeachBook)
 
@@ -56,24 +73,6 @@ An innovative Android app that uses OpenAI's technologies to create informative 
 
 
 **Technologies**: ChatGPT, Dall-E, OpenAI API, TTS, Cloud Secrets
-
-
-### TalkToGrok
-An Android app creating a verbal interaction with Grok-Beta, providing users a conversational experience.
-
-- [TalkToGrok Repository](https://github.com/ziehro/Chet)
-
-<table>
-  <tr>
-    <td><img src="./Gaia/gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
-    <td><img src="./Gaia/gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
-    <td><img src="./Gaia/gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
-  </tr>
-</table>
-
-**Description**: An Android app that facilitates verbal conversations with Grok, featuring voice recognition and text-to-speech functionality.
-
-**Technologies**: X.AI API, Java, TTS, Voice Recognition
 
 
 ### LuckyDay
