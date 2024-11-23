@@ -61,7 +61,7 @@ An innovative Android app that uses OpenAI's technologies to create informative 
 ### TalkToGrok
 An Android app creating a verbal interaction with Grok-Beta, providing users a conversational experience.
 
-- [Gaia Repository](https://github.com/ziehro/Chet)
+- [TalkToGrok Repository](https://github.com/ziehro/Chet)
 
 <table>
   <tr>
