@@ -58,8 +58,8 @@ An innovative Android app that uses OpenAI's technologies to create informative 
 **Technologies**: ChatGPT, Dall-E, OpenAI API, TTS, Cloud Secrets
 
 
-### Gaia
-An Android app creating a verbal interaction with ChatGPT, providing users a conversational experience.
+### TalkToGrok
+An Android app creating a verbal interaction with Grok-Beta, providing users a conversational experience.
 
 - [Gaia Repository](https://github.com/ziehro/Chet)
 
@@ -71,9 +71,9 @@ An Android app creating a verbal interaction with ChatGPT, providing users a con
   </tr>
 </table>
 
-**Description**: An Android app that facilitates verbal conversations with ChatGPT, featuring voice recognition and text-to-speech functionality.
+**Description**: An Android app that facilitates verbal conversations with Grok, featuring voice recognition and text-to-speech functionality.
 
-**Technologies**: OpenAI API, Java, TTS, Voice Recognition
+**Technologies**: X.AI API, Java, TTS, Voice Recognition
 
 
 ### LuckyDay
