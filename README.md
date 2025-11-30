@@ -18,12 +18,15 @@ A sophisticated Flutter mobile application that creates a crowd-sourced "ground 
   </tr>
 </table>
 
-**Description**: MyBeachBook aggregates multiple user contributions per beach to establish consensus "ground truth" data about coastal environments. Users document beaches through detailed multi-page forms covering flora, fauna, driftwood, and composition metrics. Each contribution is processed by Firebase Cloud Functions that calculate weighted averages, vote on categorical choices, and build comprehensive beach profiles. The app features an interactive heatmap system overlaying 30+ metrics on Google Maps with color-gradient circles that dynamically resize based on zoom level, allowing users to visualize patterns like sand coverage, driftwood availability, or marine life abundance across regions. AI integration includes GPT-4 generated educational descriptions, DALL-E 3 watermarked images, and ML Kit-powered species identification. The system prevents duplicates through UUID tracking and geohash-based location verification, while a migration service consolidates historical data into the unified beach database. Additional features include offline sync, multiple map styles, long-press metric explanations, and discovery scavenger hunts.
+**Description**: MyBeachBook aggregates multiple user contributions per beach to establish consensus "ground truth" data about coastal environments. Users document beaches through detailed multi-page forms covering flora, fauna, driftwood, and composition metrics. Each contribution is processed by Firebase Cloud Functions that calculate weighted averages, vote on categorical choices, and build comprehensive beach profiles. The app features an interactive heatmap system overlaying 30+ metrics on Google Maps with color-gradient circles that dynamically resize based on zoom level, allowing users to visualize patterns like sand coverage, driftwood availability, or marine life abundance across regions. AI integration includes Gemini generated educational descriptions, DALL-E 3 watermarked images, and ML Kit-powered species identification. The system prevents duplicates through UUID tracking and geohash-based location verification, while a migration service consolidates historical data into the unified beach database. Additional features include offline sync, multiple map styles, long-press metric explanations, and discovery scavenger hunts.
 
-**Technologies**: Flutter, Firebase (Firestore, Storage, Auth, Cloud Functions), OpenAI API (GPT-4, DALL-E 3), Google Maps API, ML Kit, iNaturalist API, Geohashing, Dart
+**Technologies**: Flutter, Firebase (Firestore, Storage, Auth, Cloud Functions), Google Maps API, ML Kit, Geohashing, Dart
 
 ### Caloz
-An innovative Android calculator with a unique twist: calculate with letters instead of numbers using custom alphabets.
+CaloZ - Science-Based Calorie Tracking
+A Flutter app that helps users understand and manage their calorie delta to reach weight goals through simple math: 1 lb of body weight = ~3,500 calories.
+What makes CaloZ different:
+Instead of just counting calories, CaloZ makes your daily calorie delta visible in real-time, showing exactly how today's choices impact your goal timeline.
 
 - [Caloz Repository](https://github.com/ziehro/myzeno)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.ziehro.zeno)
