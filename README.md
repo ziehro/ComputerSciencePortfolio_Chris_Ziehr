@@ -5,26 +5,10 @@ Welcome to my Computer Science Portfolio. Here, you will find a collection of pr
 
 ## Projects Overview
 
-### TalkToGrok
-An Android app creating a verbal interaction with Grok-Beta, providing users a conversational experience.
+### MyBeachBook
+A sophisticated Flutter mobile application that creates a crowd-sourced "ground truth" database of coastal locations through data amalgamation and interactive visualization.
 
-- [TalkToGrok Repository](https://github.com/ziehro/Chet)
-
-<table>
-  <tr>
-    <td><img src="./Gaia/gaia1.png" width="100%" alt="Conversation Interface Screenshot"></td>
-    <td><img src="./Gaia/gaia2.png" width="100%" alt="Voice Recognition Screenshot"></td>
-    <td><img src="./Gaia/gaia3.png" width="100%" alt="Chat Display Screenshot"></td>
-  </tr>
-</table>
-
-**Description**: An Android app that facilitates verbal conversations with Grok, featuring voice recognition and text-to-speech functionality.
-
-**Technologies**: X.AI API, Java, TTS, Voice Recognition
-
-### BeachBook
-
-- [BeachBook Repository](https://github.com/ziehro/BeachBook)
+- [MyBeachBook Repository](https://github.com/ziehro/mybeachbook)
 
 <table>
   <tr>
@@ -34,9 +18,27 @@ An Android app creating a verbal interaction with Grok-Beta, providing users a c
   </tr>
 </table>
 
-**Description**: An Android app for collecting and reviewing beach data. Users can select an existing or new beach on an interactive map and input various attributes and images.
+**Description**: MyBeachBook aggregates multiple user contributions per beach to establish consensus "ground truth" data about coastal environments. Users document beaches through detailed multi-page forms covering flora, fauna, driftwood, and composition metrics. Each contribution is processed by Firebase Cloud Functions that calculate weighted averages, vote on categorical choices, and build comprehensive beach profiles. The app features an interactive heatmap system overlaying 30+ metrics on Google Maps with color-gradient circles that dynamically resize based on zoom level, allowing users to visualize patterns like sand coverage, driftwood availability, or marine life abundance across regions. AI integration includes GPT-4 generated educational descriptions, DALL-E 3 watermarked images, and ML Kit-powered species identification. The system prevents duplicates through UUID tracking and geohash-based location verification, while a migration service consolidates historical data into the unified beach database. Additional features include offline sync, multiple map styles, long-press metric explanations, and discovery scavenger hunts.
 
-**Technologies**: Java, Firestore, Google Cloud Functions, Map APIs, Picasso
+**Technologies**: Flutter, Firebase (Firestore, Storage, Auth, Cloud Functions), OpenAI API (GPT-4, DALL-E 3), Google Maps API, ML Kit, iNaturalist API, Geohashing, Dart
+
+### Caloz
+An innovative Android calculator with a unique twist: calculate with letters instead of numbers using custom alphabets.
+
+- [Caloz Repository](https://github.com/ziehro/myzeno)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.ziehro.zeno)
+
+<table>
+  <tr>
+    <td><img src="./Caloz/caloz1.png" width="100%" alt="Calculator Interface"></td>
+    <td><img src="./Caloz/caloz2.png" width="100%" alt="Alphabet Creation"></td>
+    <td><img src="./Caloz/caloz3.png" width="100%" alt="Custom Calculations"></td>
+  </tr>
+</table>
+
+**Description**: A unique Android calculator that allows users to perform mathematical operations using custom letter-based number systems. Create your own alphabets where each letter represents a number, enabling creative calculation methods. Perfect for encryption, gaming, or just having fun with math in a new way.
+
+**Technologies**: Java, Android SDK
 
 ### HailStorm
 
@@ -70,10 +72,7 @@ An innovative Android app that uses OpenAI's technologies to create informative 
 
 **Description**: An Android app that generates YouTube videos with facts based on a single word or phrase. It utilizes OpenAI's ChatGPT and Dall-E for content creation.
 
-
-
 **Technologies**: ChatGPT, Dall-E, OpenAI API, TTS, Cloud Secrets
-
 
 ### LuckyDay
 A unique app correlating personal events with lunar phases to discover the user's luckiest days.
@@ -91,25 +90,6 @@ A unique app correlating personal events with lunar phases to discover the user'
 **Description**: An app for tracking and correlating personal events with lunar phases to discover one's 'Lucky Day'.
 
 **Technologies**: Java, MPAndroidChart, Picasso, Apache
-
-
-### Tetrite
-A Tetris-like game with a twist: filled blocks reveal letters to form words.
-
-- [Tetrite Repository](https://github.com/ziehro/Tetrite)
-
-<table>
-  <tr>
-    <td><img src="./Tetrite/tetrite1.png" width="100%" alt="Game Begins"></td>
-    <td><img src="./Tetrite/tetrite2.png" width="100%" alt="Tetris Gameplay"></td>
-    <td><img src="./Tetrite/tetrite3.png" width="100%" alt="Words"></td>
-  </tr>
-</table>
-
-**Description**: A Tetris-like Android game where the tetrominoes are filled with letters, challenging players to find words as they complete lines.
-
-**Technologies**: Java, Espresso
-
 
 ## About Me
 
