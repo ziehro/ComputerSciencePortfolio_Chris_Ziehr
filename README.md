@@ -1,4 +1,8 @@
 # ComputerSciencePortfolio_Chris_Ziehr
+
+> [!IMPORTANT]
+> **This portfolio has moved.** The current, combined Computer Science + Data Science portfolio lives at **[ziehro.github.io](https://ziehro.github.io/)** (mirror: [driftwest.xyz/portfolio](https://driftwest.xyz/portfolio/)).
+> This repo is kept as an archive of earlier work.
 Portfolio containing computer science examples by Chris Ziehr
 
 Welcome to my Computer Science Portfolio. Here, you will find a collection of projects showcasing my skills and interests in computer science, particularly in mobile app development and data analysis. Each project highlights my ability to blend technology and creativity to solve unique problems.
